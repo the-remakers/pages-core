@@ -12,7 +12,7 @@ author: "Thinkers Team"
 date: 2025-10-21
 ---
 
-# Submodule 4
+# Log In screen
 
 ## Content Coming Soon
-This submodule will be developed by the Thinkers team.
+This submodule will be developed by the Unzippers team.

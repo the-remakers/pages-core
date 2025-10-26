@@ -14,5 +14,6 @@ date: 2025-10-21
 
 # Submodule 1
 
-## Content Coming Soon
-This submodule will be developed by the Thinkers team.
+## Hints
+This submodule will be developed by the Unzippers team.
+

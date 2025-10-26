@@ -12,7 +12,7 @@ author: "Thinkers Team"
 date: 2025-10-21
 ---
 
-# Submodule 2
+# Lesson Blogs
 
 ## Content Coming Soon
-This submodule will be developed by the Thinkers team.
+This submodule will be developed by the Unzippers team.
